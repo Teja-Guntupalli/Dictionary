@@ -34,3 +34,7 @@ Made UI to look more attractive to user and increase user-base by making user mo
 
 We've used different kinds of frameworks for this submission:
 
+- ReactJS
+- HTML5
+- CSS 3.0
+
