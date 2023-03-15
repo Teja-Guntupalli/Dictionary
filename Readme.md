@@ -11,7 +11,9 @@
 - (If not) Run in terminal `npm start`
 - Navigate to https://localhost:3000
 
-Website link after deploying in UTA Cloud is https://txg8976.uta.cloud/.
+## Website link 
+
+UTA Cloud link is https://txg8976.uta.cloud/.
 
 ## Different Roles for User Login
 
