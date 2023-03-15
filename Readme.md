@@ -2,7 +2,6 @@
 
 ### Get Started
 
-- Install NodeJS **LTS** version from NodeJs Official Page
 - Open Terminal
 - Go to your file project (where you’ve unzipped the product)
 - (If you are on a linux based terminal) Simply run `npm run install:clean`
@@ -28,6 +27,10 @@ We will do that in the later phases once we connect our website with PHP and Dat
 - Use security_manager for Security Manager Profile.
 - Use resident for resident profile.
 - Use visitor for visitor profile.
+
+You can perform CRUD in each of the user profile mentioned as and when required based on usage.
+Different profile have different ways of CRUD operations to perform. Rendering pages is made easy with the help of ReactJS.
+We've made our website to simply render the react components of user-activity.
 
 We've used several frameworks for the betterment of website to look more user-friendly.
 Modified UI as compared to previous submission to make webpages render easily based on user activities.
