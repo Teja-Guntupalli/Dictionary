@@ -15,6 +15,12 @@
 UTA Cloud link is **https://txg8976.uta.cloud/**.
 I've uploaded all the compiled and build files to cPanel of UTA Cloud portal.
 
+We've used different kinds of frameworks for this submission:
+
+- ReactJS (Go to documentation [here](https://reactjs.org/docs/getting-started.html))
+- HTML5
+- CSS 3.0
+
 ## Different Roles for User Login
 
 To see different user profiles, then use these words in the email while logging in through login page.
@@ -36,10 +42,6 @@ We've used several frameworks for the betterment of website to look more user-fr
 Modified UI as compared to previous submission to make webpages render easily based on user activities.
 Made UI to look more attractive to user and increase user-base by making user more interactive.
 
-We've used different kinds of frameworks for this submission:
 
-- ReactJS (Go to documentation [here](https://reactjs.org/docs/getting-started.html))
-- HTML5
-- CSS 3.0
 
 
