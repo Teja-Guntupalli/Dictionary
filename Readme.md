@@ -9,11 +9,12 @@
 - (If not) Run in terminal `npm install`
 - (If not) Run in terminal `npm run build:tailwind` (each time you add a new class, a class that does not exist in `src/assets/styles/tailwind.css`, you will need to run this command)
 - (If not) Run in terminal `npm start`
-- Navigate to https://localhost:3000
+- Navigate to https://localhost:3000 to locate the build website after npm is up and running.
 
 ## Website link 
 
-UTA Cloud link is https://txg8976.uta.cloud/.
+UTA Cloud link is **https://txg8976.uta.cloud/**.
+I've uploaded all the compiled and build files to cPanel of UTA Cloud portal.
 
 ## Different Roles for User Login
 
@@ -34,7 +35,8 @@ Made UI to look more attractive to user and increase user-base by making user mo
 
 We've used different kinds of frameworks for this submission:
 
-- ReactJS
+- ReactJS (Go to documentation [here](https://reactjs.org/docs/getting-started.html))
 - HTML5
 - CSS 3.0
+
 
